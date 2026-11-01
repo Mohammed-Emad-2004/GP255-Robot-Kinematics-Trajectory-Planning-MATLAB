@@ -1,0 +1,3 @@
+    assemblyURL = "https://cad.onshape.com/documents/08b071bf0234bff7ace22b17/w/4c3e73d7dddde8733aaab38a/e/aab74ebe8122bfda9ac3ac4f";
+exportedModel = smexportonshape(assemblyURL);
+smimport(exportedModel);
